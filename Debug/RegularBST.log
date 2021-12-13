@@ -1,0 +1,5 @@
+﻿  RegularBST.cpp
+D:\C++\BryanPracticeCode3\RegularBST\RegularBST.cpp(324,11): warning C4101: 'curNode': unreferenced local variable
+D:\C++\BryanPracticeCode3\RegularBST\RegularBST.cpp(324,49): warning C4101: 'newNode': unreferenced local variable
+D:\C++\BryanPracticeCode3\RegularBST\RegularBST.cpp(324,22): warning C4101: 'prevNode': unreferenced local variable
+  RegularBST.vcxproj -> D:\C++\BryanPracticeCode3\Debug\RegularBST.exe
